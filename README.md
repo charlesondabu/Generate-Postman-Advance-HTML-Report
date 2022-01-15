@@ -10,7 +10,9 @@
 3. Go to postman under collection  export postman collection to a specific location.
 
 4. Run Collection by newman with report option for basic reports.
+	
 	`$ newman run collection.json -r html` 
 	
 5. Run Collection by newman with report optin for advanced reports.
+	
 	`$ newman run collection.json -r htmlextra` 
