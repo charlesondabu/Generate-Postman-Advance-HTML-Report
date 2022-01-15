@@ -1,6 +1,6 @@
 # Generate-Postman-Advance-HTML-Report
-### Generating HTML Report In Postman with Newman
-#steps
+## Generating HTML Report In Postman with Newman
+
 1.  Install html report package for basic reporting 
 
 	`$ npm install newman-reporter-html`
